@@ -1,9 +1,10 @@
 let urls = [
-	'https://qq.fnyun.co#qq.fnyun.co',
-	'https://cloud.fnyun.co#cloud.fnyun.co',
-	'https://fncloud.fnyun.vip#fncloud.fnyun.vip',
-	'https://cloud.fntao5.cn#cloud.fntao5.cn',
-	'https://cloud.fncloud.top/#cloud.fncloud.top'
+	'https://net.fncloud.fnyun.co#qq.fnyun.co',
+	'https://net.fncloud.fntaowu.com#cloud.fnyun.co',
+	'https://net.fncloud.fnyun.vip#fncloud.fnyun.vip',
+	'https://net.fncloud.fntao5.cn#cloud.fntao5.cn',
+	'https://net.fncloud.fny6.top#cloud.fntao5.cn',
+	'https://net.fncloud.top/#cloud.fncloud.top'
 ];
 
 export default {
