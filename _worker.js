@@ -1,10 +1,10 @@
 let urls = [
-	'https://net.fncloud.fnyun.co#qq.fnyun.co',
-	'https://net.fncloud.fntaowu.com#cloud.fnyun.co',
-	'https://net.fncloud.fnyun.vip#fncloud.fnyun.vip',
-	'https://net.fncloud.fntao5.cn#Vercel CDN',
-	'https://net.fncloud.fny6.top#Cloudflare CDN',
-	'https://net.fncloud.top#cloud.fncloud.top'
+	'https://net.fncloud.fntaowu.com#Doki CND',
+	'https://net.fncloud.fnyun.vip#FnCloud CDN',
+	'https://net.fncloud.fnyun.co#Vercel1 CDN',
+	'https://net.fncloud.fntao5.cn#Vercel2 CDN',
+	'https://net.fncloud.fny6.top#Cloudflare1 CDN',
+	'https://net.fncloud.top#Cloudflare2 CDN'
 ];
 
 export default {
